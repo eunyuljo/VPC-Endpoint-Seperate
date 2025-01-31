@@ -1,0 +1,20 @@
+# 🌱 Terraform 기본 파일 제외
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+terraform.tfvars.json
+
+# �� Terraform 작업 디렉토리 (캐시, 로그)
+.terraform/
+.terraform.lock.hcl
+crash.log
+
+# 🔑 민감한 파일 (AWS 자격증명, 개인 키)
+*.pem
+*.key
+*.crt
+*.env
+
+# 📂 VS Code 설정 파일 제외 (선택 사항)
+.vscode/
+
