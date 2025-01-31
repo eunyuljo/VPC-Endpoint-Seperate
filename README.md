@@ -1,4 +1,7 @@
 ## 목적 및 설명
+
+![Image](https://github.com/user-attachments/assets/6b7a468f-4b3d-445e-98e0-3ef52ed8f2bd)
+
 하나의 VPC 내에 
 각 서비스별로 ECR 엔드포인트 분리 요구사항을 
 사전에 확인하고, 서비스별로 분리했을 경우 발생할 수 있는 문제를 미리 확인합니다.
